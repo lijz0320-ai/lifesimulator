@@ -4,6 +4,8 @@
 
 [Try LifeSimulator live →](https://lifesimulator.live/)
 
+> **Free early access:** Human Mode and Agent Mode currently include the full simulation, milestone-based action plans and final audit at no charge.
+
 LifeSimulator is an AI-assisted decision simulator for people facing consequential choices in education, career, business, money and life. It turns an uncertain situation into several plausible paths, concrete milestones, decision checkpoints and practical action plans.
 
 ## How it works
@@ -25,13 +27,11 @@ LifeSimulator is an AI-assisted decision simulator for people facing consequenti
 
 LifeSimulator does not pretend to predict one certain future. It helps make the trade-offs, evidence gaps and consequences of different choices visible—then connects the chosen path to actions that can be tested in the real world.
 
-It supports English and Chinese, Human Mode and Agent Mode, editable paths and milestones for paid simulations, voice input, saved simulations and staged access.
+It supports English and Chinese, Human Mode and Agent Mode, editable paths and milestones, voice input, saved simulations and staged decision making.
 
 ## Try it
 
-The first two stages (0–180 days) are free in Human Mode and Agent Mode.
-
-[Open LifeSimulator →](https://lifesimulator.live/)
+[Open the free early-access experience →](https://lifesimulator.live/)
 
 ## Feedback
 
