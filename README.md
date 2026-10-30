@@ -35,7 +35,7 @@ It supports English and Chinese, Human Mode and Agent Mode, editable paths and m
 
 ## Feedback
 
-If you have a decision case that would be valuable to model, please open a GitHub issue or share it through the live site.
+**[Leave your situation or feedback →](https://github.com/lijz0320-ai/lifesimulator/issues/1)**\n\nTell us the choice you are stuck on, the options you are comparing, and the constraints that matter. This is the public feedback thread—not a code-review request.
 
 ---
 
